@@ -7,7 +7,7 @@ menu__settings:
       url: /projects/
     - title: Blog
       url: /blog/
-    - title: PlantOfTheMonth
+    - title: Plant Of The Month
       url: /PlantOfTheMonth/
     - title: About
       url: /about/
