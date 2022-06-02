@@ -1,6 +1,6 @@
 ---
 name: Not Your 'BrAsSICa' Cabbage
-position: Cabbage Driver
+position: Cab-bage Driver
 image: /uploads/img-3789.jpg
-blurb: Bomb Page tbh
+blurb: I can drive to your place ;)
 ---
