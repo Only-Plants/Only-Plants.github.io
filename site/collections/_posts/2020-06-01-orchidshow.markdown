@@ -1,5 +1,5 @@
 ---
-title: Pushin' P-lants
+title: Orch-asm
 date: 2020-06-01 15:05:00
 image: /uploads/orch.jpg
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 &nbsp;
 
-> # *"&nbsp; I don’t want to be a bitch but you guys are really boring....&nbsp; "*
+> # *"&nbsp; I don’t want to be a bitch but you guys are really boring….&nbsp; "*
 
 ![Woman with child](/uploads/img-8988.jpg){: .lightense-target width="480" height="640"}
 
