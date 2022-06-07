@@ -1,5 +1,5 @@
 ---
-title: Let's Have a Treesum
+title: Lets Have a Treesum
 date: 2022-06-07 23:23:00
 image: /uploads/img-7862.jpg
 tags:
@@ -23,7 +23,7 @@ tags:
 
 ![](/uploads/67599320989--962d01e5-a09b-4ee3-9470-0984912b6751.jpg){: width="4032" height="3024"}
 
-> ***Imagine Being A Tree...***
+> ***Imagine Being A Tree…***
 >
 >
 > ![](/uploads/img-0118.jpg){: width="3024" height="4032"}
