@@ -1,7 +1,7 @@
 ---
 title: Lets Have a Treesum
 date: 2022-06-06 23:23:00
-image: /uploads/img-7862.jpg
+image: /uploads/img-7862-1.jpg
 tags:
   - TreeDaddy
   - Nature
